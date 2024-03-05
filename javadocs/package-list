@@ -1,0 +1,12 @@
+com.github.curriculeon
+com.github.curriculeon.arcade
+com.github.curriculeon.arcade.game
+com.github.curriculeon.arcade.game.cardgame
+com.github.curriculeon.arcade.game.cardgame.blackjack
+com.github.curriculeon.arcade.game.cardgame.highlow
+com.github.curriculeon.arcade.game.cardgame.utils
+com.github.curriculeon.arcade.game.cardgame.utils.card
+com.github.curriculeon.arcade.game.utils
+com.github.curriculeon.arcade.profile
+com.github.curriculeon.arcade.utils
+com.github.curriculeon.utils
